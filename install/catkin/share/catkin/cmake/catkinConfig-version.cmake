@@ -1,1 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/build/catkin/catkin_generated/installspace/catkinConfig-version.cmake

@@ -1,1 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/ThirdParty/tiago_simulation/tiago_gazebo/launch/tiago_gazebo.launch.py

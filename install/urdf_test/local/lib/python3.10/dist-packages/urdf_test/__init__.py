@@ -1,1 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/ThirdParty/urdf_test/urdf_test/__init__.py

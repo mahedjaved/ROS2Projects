@@ -1,1 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/vision_msgs/vision_msgs/msg/VisionClass.msg

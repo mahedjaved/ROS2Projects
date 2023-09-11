@@ -1,1 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/build/pal_gripper_description/ament_cmake_core/pal_gripper_descriptionConfig.cmake

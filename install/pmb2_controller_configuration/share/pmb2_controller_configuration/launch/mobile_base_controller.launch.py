@@ -1,1 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/ThirdParty/pmb2_robot/pmb2_controller_configuration/launch/mobile_base_controller.launch.py

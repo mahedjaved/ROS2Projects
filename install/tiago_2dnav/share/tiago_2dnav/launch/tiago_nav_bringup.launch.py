@@ -1,1 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/ThirdParty/tiago_navigation/tiago_2dnav/launch/tiago_nav_bringup.launch.py

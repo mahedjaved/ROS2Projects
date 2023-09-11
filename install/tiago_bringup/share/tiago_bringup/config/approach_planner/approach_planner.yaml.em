@@ -1,1 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/ThirdParty/tiago_robot/tiago_bringup/config/approach_planner/approach_planner.yaml.em

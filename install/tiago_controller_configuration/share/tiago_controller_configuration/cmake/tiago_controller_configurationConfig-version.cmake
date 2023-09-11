@@ -1,1 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/build/tiago_controller_configuration/ament_cmake_core/tiago_controller_configurationConfig-version.cmake

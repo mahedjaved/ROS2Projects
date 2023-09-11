@@ -1,1 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/build/pmb2_robot/ament_cmake_core/pmb2_robotConfig.cmake

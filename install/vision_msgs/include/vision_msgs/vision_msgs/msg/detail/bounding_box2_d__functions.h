@@ -1,1 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/build/vision_msgs/rosidl_generator_c/vision_msgs/msg/detail/bounding_box2_d__functions.h

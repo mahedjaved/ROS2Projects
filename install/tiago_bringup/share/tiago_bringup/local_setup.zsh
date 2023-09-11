@@ -1,1 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/build/tiago_bringup/ament_cmake_environment_hooks/local_setup.zsh

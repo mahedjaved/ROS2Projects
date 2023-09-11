@@ -1,1 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/build/pmb2_controller_configuration/ament_cmake_core/pmb2_controller_configurationConfig-version.cmake

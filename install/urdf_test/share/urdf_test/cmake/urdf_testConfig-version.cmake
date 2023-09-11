@@ -1,1 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/build/urdf_test/ament_cmake_core/urdf_testConfig-version.cmake

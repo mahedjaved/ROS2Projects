@@ -1,1 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/build/vision_msgs/ament_cmake_core/vision_msgsConfig-version.cmake
