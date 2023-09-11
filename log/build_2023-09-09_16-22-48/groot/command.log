@@ -1,3 +1,0 @@
-Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/groot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mjlinux/Downloads/book_ros2_wrs/ThirdParty/Groot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mjlinux/Downloads/book_ros2_wrs/install/groot
-Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/groot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mjlinux/Downloads/book_ros2_wrs/ThirdParty/Groot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mjlinux/Downloads/book_ros2_wrs/install/groot
-Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/groot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/groot -- -j4 -l4

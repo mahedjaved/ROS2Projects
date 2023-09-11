@@ -1,1 +1,0 @@
-[0mCMake Error: The source "/home/mjlinux/Downloads/book_ros2_wrs/first_package/CMakeLists.txt" does not match the source "/home/mjlinux/Downloads/book_ros2_wrs/src/first_package/CMakeLists.txt" used to generate cache.  Re-run cmake with a different source directory.[0m

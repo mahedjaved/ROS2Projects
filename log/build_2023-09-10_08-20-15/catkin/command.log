@@ -1,6 +1,0 @@
-Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin': /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/catkin -- -j4 -l4
-Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin' returned '0': /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/catkin -- -j4 -l4
-Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin': /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/catkin --target tests -- -j4 -l4
-Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin' returned '0': /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/catkin --target tests -- -j4 -l4
-Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin': /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/catkin
-Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin' returned '0': /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/catkin

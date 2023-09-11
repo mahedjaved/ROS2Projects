@@ -1,4 +1,0 @@
-Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/groot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/groot -- -j4 -l4
-Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/groot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/groot -- -j4 -l4
-Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/groot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/groot
-Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/groot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/groot
