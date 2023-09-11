@@ -68,7 +68,6 @@ all: CMakeFiles/publisher_class.dir/all
 all: CMakeFiles/subscriber_class.dir/all
 all: CMakeFiles/executors.dir/all
 all: CMakeFiles/logger.dir/all
-all: CMakeFiles/logger_class.dir/all
 all: CMakeFiles/param_reader.dir/all
 .PHONY : all
 
@@ -84,7 +83,6 @@ clean: CMakeFiles/publisher_class.dir/clean
 clean: CMakeFiles/subscriber_class.dir/clean
 clean: CMakeFiles/executors.dir/clean
 clean: CMakeFiles/logger.dir/clean
-clean: CMakeFiles/logger_class.dir/clean
 clean: CMakeFiles/param_reader.dir/clean
 .PHONY : clean
 
@@ -147,7 +145,7 @@ CMakeFiles/br2_basics_uninstall.dir/clean:
 CMakeFiles/publisher.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/publisher.dir/build.make CMakeFiles/publisher.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/publisher.dir/build.make CMakeFiles/publisher.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles --progress-num=9,10 "Built target publisher"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles --progress-num=7,8 "Built target publisher"
 .PHONY : CMakeFiles/publisher.dir/all
 
 # Build rule for subdir invocation for target.
@@ -173,7 +171,7 @@ CMakeFiles/publisher.dir/clean:
 CMakeFiles/publisher_class.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/publisher_class.dir/build.make CMakeFiles/publisher_class.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/publisher_class.dir/build.make CMakeFiles/publisher_class.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles --progress-num=11,12 "Built target publisher_class"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles --progress-num=9,10 "Built target publisher_class"
 .PHONY : CMakeFiles/publisher_class.dir/all
 
 # Build rule for subdir invocation for target.
@@ -199,7 +197,7 @@ CMakeFiles/publisher_class.dir/clean:
 CMakeFiles/subscriber_class.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/subscriber_class.dir/build.make CMakeFiles/subscriber_class.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/subscriber_class.dir/build.make CMakeFiles/subscriber_class.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles --progress-num=13,14 "Built target subscriber_class"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles --progress-num=11,12 "Built target subscriber_class"
 .PHONY : CMakeFiles/subscriber_class.dir/all
 
 # Build rule for subdir invocation for target.
@@ -271,39 +269,13 @@ CMakeFiles/logger.dir/clean:
 .PHONY : CMakeFiles/logger.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/logger_class.dir
-
-# All Build rule for target.
-CMakeFiles/logger_class.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/logger_class.dir/build.make CMakeFiles/logger_class.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/logger_class.dir/build.make CMakeFiles/logger_class.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles --progress-num=5,6 "Built target logger_class"
-.PHONY : CMakeFiles/logger_class.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/logger_class.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/logger_class.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles 0
-.PHONY : CMakeFiles/logger_class.dir/rule
-
-# Convenience name for target.
-logger_class: CMakeFiles/logger_class.dir/rule
-.PHONY : logger_class
-
-# clean rule for target.
-CMakeFiles/logger_class.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/logger_class.dir/build.make CMakeFiles/logger_class.dir/clean
-.PHONY : CMakeFiles/logger_class.dir/clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/param_reader.dir
 
 # All Build rule for target.
 CMakeFiles/param_reader.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/param_reader.dir/build.make CMakeFiles/param_reader.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/param_reader.dir/build.make CMakeFiles/param_reader.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles --progress-num=7,8 "Built target param_reader"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles --progress-num=5,6 "Built target param_reader"
 .PHONY : CMakeFiles/param_reader.dir/all
 
 # Build rule for subdir invocation for target.

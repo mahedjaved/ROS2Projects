@@ -5,7 +5,6 @@
 /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles/subscriber_class.dir
 /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles/executors.dir
 /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles/logger.dir
-/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles/logger_class.dir
 /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles/param_reader.dir
 /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles/test.dir
 /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/CMakeFiles/edit_cache.dir

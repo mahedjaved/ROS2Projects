@@ -3,7 +3,6 @@
 /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/subscriber_class
 /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/executors
 /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/logger
-/home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/logger_class
 /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/param_reader
 /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/launch/includer_launch.py
 /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/launch/param_node_v1_launch.py

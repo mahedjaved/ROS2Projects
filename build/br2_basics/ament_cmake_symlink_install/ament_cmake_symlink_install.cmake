@@ -310,7 +310,7 @@ message(STATUS "Execute custom install script")
 
 # begin of custom install code
 
-# install("TARGETS" "publisher" "publisher_class" "subscriber_class" "executors" "logger" "logger_class" "param_reader" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "lib/br2_basics")
+# install("TARGETS" "publisher" "publisher_class" "subscriber_class" "executors" "logger" "param_reader" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "lib/br2_basics")
 include("/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/ament_cmake_symlink_install_targets_0_${CMAKE_INSTALL_CONFIG_NAME}.cmake")
 
 # install(DIRECTORY "launch" "config" "DESTINATION" "share/br2_basics")

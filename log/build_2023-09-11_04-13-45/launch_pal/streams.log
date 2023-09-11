@@ -1,0 +1,20 @@
+[1.004s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal': CONDA_PROMPT_MODIFIER=(ros) PYTHONPATH=/home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal/prefix_override:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal/build --no-deps install_data
+[1.336s] running develop
+[1.336s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.336s]   warnings.warn(
+[1.337s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.337s]   warnings.warn(
+[1.631s] running egg_info
+[1.631s] writing launch_pal.egg-info/PKG-INFO
+[1.636s] writing dependency_links to launch_pal.egg-info/dependency_links.txt
+[1.636s] writing entry points to launch_pal.egg-info/entry_points.txt
+[1.636s] writing requirements to launch_pal.egg-info/requires.txt
+[1.637s] writing top-level names to launch_pal.egg-info/top_level.txt
+[1.640s] reading manifest file 'launch_pal.egg-info/SOURCES.txt'
+[1.643s] writing manifest file 'launch_pal.egg-info/SOURCES.txt'
+[1.645s] running build_ext
+[1.646s] Creating /home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal/lib/python3.10/site-packages/launch-pal.egg-link (link to .)
+[1.647s] 
+[1.647s] Installed /home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal
+[1.647s] running install_data
+[1.678s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal' returned '0': CONDA_PROMPT_MODIFIER=(ros) PYTHONPATH=/home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal/prefix_override:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal/build --no-deps install_data

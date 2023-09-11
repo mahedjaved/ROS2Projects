@@ -1,0 +1,11 @@
+[0.033s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_bt_patrolling': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/br2_bt_patrolling -- -j4 -l4
+[0.199s] [ 10%] Built target br2_patrol_bt_node
+[0.206s] [ 20%] Built target br2_recharge_bt_node
+[0.220s] [ 30%] Built target br2_move_bt_node
+[0.225s] [ 40%] Built target br2_get_waypoint_bt_node
+[0.287s] [ 50%] Built target br2_battery_checker_bt_node
+[0.312s] [ 60%] Built target br2_track_objects_bt_node
+[0.321s] [ 70%] Built target patrolling_main
+[0.339s] [ 80%] Built target gtest_main
+[0.358s] [ 90%] Built target gtest
+[0.405s] [100%] Built target bt_action_test

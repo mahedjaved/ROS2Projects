@@ -263,19 +263,6 @@ logger/fast:
 .PHONY : logger/fast
 
 #=============================================================================
-# Target rules for targets named logger_class
-
-# Build rule for target.
-logger_class: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 logger_class
-.PHONY : logger_class
-
-# fast build rule for target.
-logger_class/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/logger_class.dir/build.make CMakeFiles/logger_class.dir/build
-.PHONY : logger_class/fast
-
-#=============================================================================
 # Target rules for targets named param_reader
 
 # Build rule for target.
@@ -335,30 +322,6 @@ src/logger.s: src/logger.cpp.s
 src/logger.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/logger.dir/build.make CMakeFiles/logger.dir/src/logger.cpp.s
 .PHONY : src/logger.cpp.s
-
-src/logger_class.o: src/logger_class.cpp.o
-.PHONY : src/logger_class.o
-
-# target to build an object file
-src/logger_class.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/logger_class.dir/build.make CMakeFiles/logger_class.dir/src/logger_class.cpp.o
-.PHONY : src/logger_class.cpp.o
-
-src/logger_class.i: src/logger_class.cpp.i
-.PHONY : src/logger_class.i
-
-# target to preprocess a source file
-src/logger_class.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/logger_class.dir/build.make CMakeFiles/logger_class.dir/src/logger_class.cpp.i
-.PHONY : src/logger_class.cpp.i
-
-src/logger_class.s: src/logger_class.cpp.s
-.PHONY : src/logger_class.s
-
-# target to generate assembly for a file
-src/logger_class.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/logger_class.dir/build.make CMakeFiles/logger_class.dir/src/logger_class.cpp.s
-.PHONY : src/logger_class.cpp.s
 
 src/param_reader.o: src/param_reader.cpp.o
 .PHONY : src/param_reader.o
@@ -473,7 +436,6 @@ help:
 	@echo "... uninstall"
 	@echo "... executors"
 	@echo "... logger"
-	@echo "... logger_class"
 	@echo "... param_reader"
 	@echo "... publisher"
 	@echo "... publisher_class"
@@ -484,9 +446,6 @@ help:
 	@echo "... src/logger.o"
 	@echo "... src/logger.i"
 	@echo "... src/logger.s"
-	@echo "... src/logger_class.o"
-	@echo "... src/logger_class.i"
-	@echo "... src/logger_class.s"
 	@echo "... src/param_reader.o"
 	@echo "... src/param_reader.i"
 	@echo "... src/param_reader.s"

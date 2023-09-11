@@ -1,0 +1,10 @@
+[ 10%] Built target br2_patrol_bt_node
+[ 20%] Built target br2_recharge_bt_node
+[ 30%] Built target br2_move_bt_node
+[ 40%] Built target br2_get_waypoint_bt_node
+[ 50%] Built target br2_battery_checker_bt_node
+[ 60%] Built target br2_track_objects_bt_node
+[ 70%] Built target patrolling_main
+[ 80%] Built target gtest_main
+[ 90%] Built target gtest
+[100%] Built target bt_action_test
