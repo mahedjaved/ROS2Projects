@@ -1,5 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/pkgconfig/catkin.pc
-/home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkinConfig.cmake
-/home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkinConfig-version.cmake
-/home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/package.xml
-/home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/LICENSE

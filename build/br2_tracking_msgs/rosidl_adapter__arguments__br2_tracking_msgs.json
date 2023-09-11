@@ -1,6 +1,0 @@
-{
-  "package_name": "br2_tracking_msgs",
-  "non_idl_tuples": [
-    "/home/mjlinux/Downloads/book_ros2_wrs/book_ros2/br2_tracking_msgs:msg/PanTiltCommand.msg"
-  ]
-}

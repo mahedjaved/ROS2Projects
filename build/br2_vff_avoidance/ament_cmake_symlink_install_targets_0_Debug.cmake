@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/mjlinux/Downloads/book_ros2_wrs/build/br2_vff_avoidance/libbr2_vff_avoidance.so" "/home/mjlinux/Downloads/book_ros2_wrs/build/br2_vff_avoidance/avoidance_vff" "TARGETS" "br2_vff_avoidance" "avoidance_vff" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "lib/br2_vff_avoidance")

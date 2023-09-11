@@ -1,9 +1,0 @@
-/home/mjlinux/Downloads/book_ros2_wrs/build/pal_gazebo_worlds/CMakeFiles/uninstall.dir
-/home/mjlinux/Downloads/book_ros2_wrs/build/pal_gazebo_worlds/CMakeFiles/pal_gazebo_worlds_uninstall.dir
-/home/mjlinux/Downloads/book_ros2_wrs/build/pal_gazebo_worlds/CMakeFiles/test.dir
-/home/mjlinux/Downloads/book_ros2_wrs/build/pal_gazebo_worlds/CMakeFiles/edit_cache.dir
-/home/mjlinux/Downloads/book_ros2_wrs/build/pal_gazebo_worlds/CMakeFiles/rebuild_cache.dir
-/home/mjlinux/Downloads/book_ros2_wrs/build/pal_gazebo_worlds/CMakeFiles/list_install_components.dir
-/home/mjlinux/Downloads/book_ros2_wrs/build/pal_gazebo_worlds/CMakeFiles/install.dir
-/home/mjlinux/Downloads/book_ros2_wrs/build/pal_gazebo_worlds/CMakeFiles/install/local.dir
-/home/mjlinux/Downloads/book_ros2_wrs/build/pal_gazebo_worlds/CMakeFiles/install/strip.dir
