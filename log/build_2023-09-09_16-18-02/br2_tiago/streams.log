@@ -1,0 +1,42 @@
+[0.033s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_tiago': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mjlinux/Downloads/book_ros2_wrs/book_ros2/br2_tiago -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago
+[0.107s] -- The C compiler identification is GNU 11.4.0
+[0.189s] -- The CXX compiler identification is GNU 11.4.0
+[0.195s] -- Detecting C compiler ABI info
+[0.277s] -- Detecting C compiler ABI info - done
+[0.283s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.283s] -- Detecting C compile features
+[0.283s] -- Detecting C compile features - done
+[0.286s] -- Detecting CXX compiler ABI info
+[0.391s] -- Detecting CXX compiler ABI info - done
+[0.396s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.396s] -- Detecting CXX compile features
+[0.397s] -- Detecting CXX compile features - done
+[0.399s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.559s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.599s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.678s] -- Configuring done
+[0.680s] -- Generating done
+[0.680s] -- Build files have been written to: /home/mjlinux/Downloads/book_ros2_wrs/build/br2_tiago
+[0.684s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_tiago' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mjlinux/Downloads/book_ros2_wrs/book_ros2/br2_tiago -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago
+[0.684s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_tiago': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/br2_tiago -- -j4 -l4
+[0.767s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_tiago' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/br2_tiago -- -j4 -l4
+[0.816s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_tiago': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/br2_tiago
+[0.851s] -- Install configuration: ""
+[0.852s] -- Execute custom install script
+[0.852s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/br2_tiago/launch/sim.launch.py
+[0.869s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/ament_index/resource_index/package_run_dependencies/br2_tiago
+[0.879s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/ament_index/resource_index/parent_prefix_path/br2_tiago
+[0.904s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/br2_tiago/environment/ament_prefix_path.sh
+[0.924s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/br2_tiago/environment/ament_prefix_path.dsv
+[0.971s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/br2_tiago/environment/path.sh
+[0.976s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/br2_tiago/environment/path.dsv
+[0.997s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/br2_tiago/local_setup.bash
+[1.008s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/br2_tiago/local_setup.sh
+[1.016s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/br2_tiago/local_setup.zsh
+[1.024s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/br2_tiago/local_setup.dsv
+[1.046s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/br2_tiago/package.dsv
+[1.055s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/ament_index/resource_index/packages/br2_tiago
+[1.063s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/br2_tiago/cmake/br2_tiagoConfig.cmake
+[1.071s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/br2_tiago/cmake/br2_tiagoConfig-version.cmake
+[1.079s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago/share/br2_tiago/package.xml
+[1.099s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_tiago' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/br2_tiago

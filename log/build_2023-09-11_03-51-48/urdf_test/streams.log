@@ -1,0 +1,40 @@
+[0.015s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/urdf_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/urdf_test -- -j4 -l4
+[0.107s] Built target ament_cmake_python_symlink_urdf_test
+[0.289s] running egg_info
+[0.290s] writing urdf_test.egg-info/PKG-INFO
+[0.290s] writing dependency_links to urdf_test.egg-info/dependency_links.txt
+[0.290s] writing top-level names to urdf_test.egg-info/top_level.txt
+[0.292s] reading manifest file 'urdf_test.egg-info/SOURCES.txt'
+[0.292s] writing manifest file 'urdf_test.egg-info/SOURCES.txt'
+[0.312s] Built target ament_cmake_python_build_urdf_test_egg
+[0.344s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/urdf_test -- -j4 -l4
+[0.431s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/urdf_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/urdf_test
+[0.449s] -- Install configuration: ""
+[0.449s] -- Execute custom install script
+[0.449s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/lib/urdf_test/test_urdf.py
+[0.450s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/urdf_test/environment/pythonpath.sh
+[0.450s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/urdf_test/environment/pythonpath.dsv
+[0.460s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/local/lib/python3.10/dist-packages/urdf_test-2.0.1-py3.10.egg-info/PKG-INFO
+[0.460s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/local/lib/python3.10/dist-packages/urdf_test-2.0.1-py3.10.egg-info/SOURCES.txt
+[0.460s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/local/lib/python3.10/dist-packages/urdf_test-2.0.1-py3.10.egg-info/dependency_links.txt
+[0.460s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/local/lib/python3.10/dist-packages/urdf_test-2.0.1-py3.10.egg-info/top_level.txt
+[0.460s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/local/lib/python3.10/dist-packages/urdf_test/__init__.py
+[0.461s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/local/lib/python3.10/dist-packages/urdf_test/description_test.py
+[0.461s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/ament_index/resource_index/package_run_dependencies/urdf_test
+[0.461s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/ament_index/resource_index/parent_prefix_path/urdf_test
+[0.461s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/urdf_test/environment/ament_prefix_path.sh
+[0.461s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/urdf_test/environment/ament_prefix_path.dsv
+[0.461s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/urdf_test/environment/path.sh
+[0.461s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/urdf_test/environment/path.dsv
+[0.461s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/urdf_test/local_setup.bash
+[0.461s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/urdf_test/local_setup.sh
+[0.462s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/urdf_test/local_setup.zsh
+[0.462s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/urdf_test/local_setup.dsv
+[0.462s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/urdf_test/package.dsv
+[0.479s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/ament_index/resource_index/packages/urdf_test
+[0.479s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/urdf_test/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.479s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/urdf_test/cmake/urdf_testConfig.cmake
+[0.479s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/urdf_test/cmake/urdf_testConfig-version.cmake
+[0.479s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/share/urdf_test/package.xml
+[0.515s] Listing '/home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/local/lib/python3.10/dist-packages/urdf_test'...
+[0.520s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/urdf_test

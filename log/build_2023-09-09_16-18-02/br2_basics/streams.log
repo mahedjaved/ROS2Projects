@@ -1,0 +1,105 @@
+[0.008s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mjlinux/Downloads/book_ros2_wrs/book_ros2/br2_basics -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics
+[0.112s] -- The C compiler identification is GNU 11.4.0
+[0.161s] -- The CXX compiler identification is GNU 11.4.0
+[0.181s] -- Detecting C compiler ABI info
+[0.254s] -- Detecting C compiler ABI info - done
+[0.260s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.260s] -- Detecting C compile features
+[0.260s] -- Detecting C compile features - done
+[0.263s] -- Detecting CXX compiler ABI info
+[0.346s] -- Detecting CXX compiler ABI info - done
+[0.351s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.352s] -- Detecting CXX compile features
+[0.352s] -- Detecting CXX compile features - done
+[0.354s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.503s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.545s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.584s] -- Found rclcpp: 16.0.5 (/opt/ros/humble/share/rclcpp/cmake)
+[0.616s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.619s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.626s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.636s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.651s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.751s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.754s] -- Found rmw_fastrtps_cpp: 6.2.3 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.901s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.924s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.962s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.986s] -- Looking for pthread.h
+[1.092s] -- Looking for pthread.h - found
+[1.092s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.156s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.176s] -- Found Threads: TRUE  
+[1.338s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.406s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.407s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.407s] -- Configured cppcheck include dirs: 
+[1.407s] -- Configured cppcheck exclude dirs and/or files: 
+[1.408s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.408s] -- Configured cpplint exclude dirs and/or files: 
+[1.408s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.409s] -- Added test 'lint_cmake' to check CMake code style
+[1.409s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.410s] -- Added test 'uncrustify' to check C / C++ code style
+[1.410s] -- Configured uncrustify additional arguments: 
+[1.410s] -- Added test 'xmllint' to check XML markup files
+[1.412s] -- Configuring done
+[1.426s] -- Generating done
+[1.427s] -- Build files have been written to: /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics
+[1.433s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mjlinux/Downloads/book_ros2_wrs/book_ros2/br2_basics -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics
+[1.434s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics -- -j4 -l4
+[1.515s] [  7%] [32mBuilding CXX object CMakeFiles/publisher_class.dir/src/publisher_class.cpp.o[0m
+[1.515s] [ 14%] [32mBuilding CXX object CMakeFiles/executors.dir/src/executors.cpp.o[0m
+[1.516s] [ 21%] [32mBuilding CXX object CMakeFiles/subscriber_class.dir/src/subscriber_class.cpp.o[0m
+[1.522s] [ 28%] [32mBuilding CXX object CMakeFiles/publisher.dir/src/publisher.cpp.o[0m
+[36.467s] [ 35%] [32m[1mLinking CXX executable publisher_class[0m
+[37.315s] [ 35%] Built target publisher_class
+[65.709s] [ 42%] [32m[1mLinking CXX executable publisher[0m
+[66.148s] [ 42%] Built target publisher
+[86.660s] [ 50%] [32m[1mLinking CXX executable executors[0m
+[86.661s] [ 57%] [32m[1mLinking CXX executable subscriber_class[0m
+[87.395s] [ 57%] Built target subscriber_class
+[87.403s] [ 57%] Built target executors
+[87.438s] [ 64%] [32mBuilding CXX object CMakeFiles/param_reader.dir/src/param_reader.cpp.o[0m
+[90.897s] [ 71%] [32m[1mLinking CXX executable param_reader[0m
+[91.006s] [ 71%] Built target param_reader
+[91.029s] [ 78%] [32mBuilding CXX object CMakeFiles/logger_class.dir/src/logger_class.cpp.o[0m
+[93.379s] [ 85%] [32m[1mLinking CXX executable logger_class[0m
+[93.529s] [ 85%] Built target logger_class
+[93.569s] [ 92%] [32mBuilding CXX object CMakeFiles/logger.dir/src/logger.cpp.o[0m
+[95.912s] [100%] [32m[1mLinking CXX executable logger[0m
+[96.008s] [100%] Built target logger
+[96.095s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics -- -j4 -l4
+[96.170s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics
+[96.179s] -- Install configuration: ""
+[96.179s] -- Execute custom install script
+[96.180s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/publisher
+[96.199s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/publisher_class
+[96.207s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/subscriber_class
+[96.215s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/executors
+[96.223s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/logger
+[96.231s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/logger_class
+[96.240s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/param_reader
+[96.255s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/launch/includer_launch.py
+[96.280s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/launch/param_node_v1_launch.py
+[96.290s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/launch/param_node_v2_launch.py
+[96.303s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/launch/pub_sub_v1_launch.py
+[96.311s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/launch/pub_sub_v2_launch.py
+[96.320s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/config/params.yaml
+[96.330s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/ament_index/resource_index/package_run_dependencies/br2_basics
+[96.339s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/ament_index/resource_index/parent_prefix_path/br2_basics
+[96.352s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/environment/ament_prefix_path.sh
+[96.378s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/environment/ament_prefix_path.dsv
+[96.386s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/environment/path.sh
+[96.395s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/environment/path.dsv
+[96.404s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/local_setup.bash
+[96.412s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/local_setup.sh
+[96.421s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/local_setup.zsh
+[96.430s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/local_setup.dsv
+[96.439s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/package.dsv
+[96.447s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/ament_index/resource_index/packages/br2_basics
+[96.472s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/cmake/ament_cmake_export_dependencies-extras.cmake
+[96.481s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/cmake/br2_basicsConfig.cmake
+[96.490s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/cmake/br2_basicsConfig-version.cmake
+[96.502s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/package.xml
+[96.522s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics

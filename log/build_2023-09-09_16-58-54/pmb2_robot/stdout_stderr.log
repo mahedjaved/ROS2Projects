@@ -1,0 +1,17 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot/share/ament_index/resource_index/package_run_dependencies/pmb2_robot
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot/share/ament_index/resource_index/parent_prefix_path/pmb2_robot
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot/share/pmb2_robot/environment/ament_prefix_path.sh
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot/share/pmb2_robot/environment/ament_prefix_path.dsv
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot/share/pmb2_robot/environment/path.sh
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot/share/pmb2_robot/environment/path.dsv
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot/share/pmb2_robot/local_setup.bash
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot/share/pmb2_robot/local_setup.sh
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot/share/pmb2_robot/local_setup.zsh
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot/share/pmb2_robot/local_setup.dsv
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot/share/pmb2_robot/package.dsv
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot/share/ament_index/resource_index/packages/pmb2_robot
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot/share/pmb2_robot/cmake/pmb2_robotConfig.cmake
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot/share/pmb2_robot/cmake/pmb2_robotConfig-version.cmake
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot/share/pmb2_robot/package.xml

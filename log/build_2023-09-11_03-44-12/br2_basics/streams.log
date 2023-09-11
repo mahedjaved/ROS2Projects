@@ -1,0 +1,71 @@
+[0.042s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake /home/mjlinux/Downloads/book_ros2_wrs/book_ros2/br2_basics -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics
+[0.161s] -- The C compiler identification is GNU 11.4.0
+[0.271s] -- The CXX compiler identification is GNU 11.4.0
+[0.292s] -- Detecting C compiler ABI info
+[0.670s] -- Detecting C compiler ABI info - done
+[0.674s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.674s] -- Detecting C compile features
+[0.675s] -- Detecting C compile features - done
+[0.689s] -- Detecting CXX compiler ABI info
+[0.920s] -- Detecting CXX compiler ABI info - done
+[0.920s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.921s] -- Detecting CXX compile features
+[0.922s] -- Detecting CXX compile features - done
+[0.939s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.296s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.477s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.566s] -- Found rclcpp: 16.0.5 (/opt/ros/humble/share/rclcpp/cmake)
+[1.651s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.663s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.670s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.684s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.707s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.830s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.840s] -- Found rmw_fastrtps_cpp: 6.2.3 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.312s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.381s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.531s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.575s] -- Looking for pthread.h
+[2.803s] -- Looking for pthread.h - found
+[2.803s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.998s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.998s] -- Found Threads: TRUE  
+[3.549s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.846s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.855s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.859s] -- Configured cppcheck include dirs: 
+[3.859s] -- Configured cppcheck exclude dirs and/or files: 
+[3.860s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[3.860s] -- Configured cpplint exclude dirs and/or files: 
+[3.861s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.863s] -- Added test 'lint_cmake' to check CMake code style
+[3.887s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[3.904s] -- Added test 'uncrustify' to check C / C++ code style
+[3.904s] -- Configured uncrustify additional arguments: 
+[3.905s] -- Added test 'xmllint' to check XML markup files
+[3.929s] -- Configuring done
+[4.024s] -- Generating done
+[4.032s] -- Build files have been written to: /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics
+[4.065s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake /home/mjlinux/Downloads/book_ros2_wrs/book_ros2/br2_basics -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics
+[4.065s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics -- -j4 -l4
+[4.157s] [  7%] [32mBuilding CXX object CMakeFiles/publisher.dir/src/publisher.cpp.o[0m
+[4.199s] [ 14%] [32mBuilding CXX object CMakeFiles/publisher_class.dir/src/publisher_class.cpp.o[0m
+[4.219s] [ 21%] [32mBuilding CXX object CMakeFiles/subscriber_class.dir/src/subscriber_class.cpp.o[0m
+[4.240s] [ 28%] [32mBuilding CXX object CMakeFiles/executors.dir/src/executors.cpp.o[0m
+[52.692s] [ 35%] [32m[1mLinking CXX executable publisher[0m
+[53.083s] [ 35%] Built target publisher
+[56.744s] [ 42%] [32m[1mLinking CXX executable publisher_class[0m
+[57.264s] [ 42%] Built target publisher_class
+[61.832s] [ 50%] [32m[1mLinking CXX executable subscriber_class[0m
+[62.372s] [ 50%] Built target subscriber_class
+[64.437s] [ 57%] [32m[1mLinking CXX executable executors[0m
+[64.759s] [ 57%] Built target executors
+[64.795s] [ 64%] [32mBuilding CXX object CMakeFiles/param_reader.dir/src/param_reader.cpp.o[0m
+[67.468s] [ 71%] [32m[1mLinking CXX executable param_reader[0m
+[67.590s] [ 71%] Built target param_reader
+[67.617s] [ 78%] [32mBuilding CXX object CMakeFiles/logger_class.dir/src/logger_class.cpp.o[0m
+[69.887s] [ 85%] [32m[1mLinking CXX executable logger_class[0m
+[69.974s] [ 85%] Built target logger_class
+[70.009s] [ 92%] [32mBuilding CXX object CMakeFiles/logger.dir/src/logger.cpp.o[0m
+[72.586s] [100%] [32m[1mLinking CXX executable logger[0m
+[72.689s] [100%] Built target logger

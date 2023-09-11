@@ -1,0 +1,115 @@
+Built target ament_cmake_python_symlink_tiago_description
+running egg_info
+creating tiago_description.egg-info
+writing tiago_description.egg-info/PKG-INFO
+writing dependency_links to tiago_description.egg-info/dependency_links.txt
+writing top-level names to tiago_description.egg-info/top_level.txt
+writing manifest file 'tiago_description.egg-info/SOURCES.txt'
+reading manifest file 'tiago_description.egg-info/SOURCES.txt'
+writing manifest file 'tiago_description.egg-info/SOURCES.txt'
+Built target ament_cmake_python_build_tiago_description_egg
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/environment/pythonpath.sh
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/environment/pythonpath.dsv
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description-4.0.15-py3.10.egg-info/PKG-INFO
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description-4.0.15-py3.10.egg-info/SOURCES.txt
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description-4.0.15-py3.10.egg-info/dependency_links.txt
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description-4.0.15-py3.10.egg-info/top_level.txt
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description/__init__.py
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description/tiago_launch_utils.py
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/config/collision/collision_parameters.yaml
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/gazebo/gazebo.urdf.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/launch/robot_state_publisher.launch.py
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/launch/show.launch.py
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/Media/materials/scripts/markers.material
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/Media/materials/textures/aruco-26_8cm.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/Media/materials/textures/aruco-582_8cm.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/Media/materials/textures/pal_logo_1_7cm.jpg
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/Media/materials/textures/pal_logo_2_7cm.jpg
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/Media/materials/textures/pal_logo_3_7cm.jpg
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_1.stl
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_1_collision.dae
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_1_color.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_1_normals.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_1_specular.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_2.stl
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_2_collision.dae
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_2_color.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_2_normals.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_2_specular.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_3.stl
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_3_collision.dae
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_3_color.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_3_normals.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_3_specular.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_4.stl
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_4_collision.dae
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_4_collision.stl
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_4_color.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_4_normals.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_4_specular.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_5-wrist-2010.stl
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_5-wrist-2017.stl
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_5_collision-wrist-2010.dae
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_5_collision-wrist-2017.dae
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_6-wrist-2010.stl
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_6-wrist-2017.stl
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_6_collision-wrist-2010.dae
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_6_collision-wrist-2017.dae
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_6_color.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_6_normals.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/arm/arm_6_specular.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/head/head_1.stl
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/head/head_1_collision.dae
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/head/head_2.stl
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/head/head_2_collision.dae
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/sensors/xtion_pro_live/xtion_pro_live.dae
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/sensors/xtion_pro_live/xtion_pro_live.png
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/torso/torso_fix.stl
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/torso/torso_lift_collision.dae
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/torso/torso_lift_collision_core.dae
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/torso/torso_lift_collision_neck.dae
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/torso/torso_lift_collision_shoulder.dae
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/torso/torso_lift_with_arm.stl
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/meshes/torso/torso_lift_without_arm.stl
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/robots/tiago.urdf.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/ros2_control/ros2_control.urdf.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/ros2_control/transmissions.urdf.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/arm/arm.ros2_control.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/arm/arm.urdf.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/arm/wrist.ros2_control.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/arm/wrist.urdf.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/calibration/calibration_constants.urdf.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/calibration/extrinsic_camera_calibration_constants.urdf.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/deg_to_rad.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/end_effector/end_effector.urdf.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/head/head.ros2_control.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/head/head.urdf.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/materials.urdf.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/sensors/ftsensor.gazebo.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/sensors/ftsensor.urdf.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/sensors/openni.gazebo.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/sensors/orbbec_astra.urdf.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/sensors/sensors.ros2_control.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/sensors/xtion_pro_live.urdf.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/torso/torso.ros2_control.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/urdf/torso/torso.urdf.xacro
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/ament_index/resource_index/package_run_dependencies/tiago_description
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/ament_index/resource_index/parent_prefix_path/tiago_description
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/environment/path.sh
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/environment/path.dsv
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/local_setup.bash
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/local_setup.sh
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/local_setup.zsh
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/local_setup.dsv
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/package.dsv
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/ament_index/resource_index/packages/tiago_description
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/cmake/tiago_descriptionConfig.cmake
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/cmake/tiago_descriptionConfig-version.cmake
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/share/tiago_description/package.xml
+Listing '/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description'...
+Compiling '/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description/__init__.py'...
+Compiling '/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description/tiago_launch_utils.py'...

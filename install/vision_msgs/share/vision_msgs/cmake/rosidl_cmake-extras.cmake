@@ -1,0 +1,1 @@
+/home/mjlinux/Downloads/book_ros2_wrs/build/vision_msgs/rosidl_cmake/rosidl_cmake-extras.cmake

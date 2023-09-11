@@ -1,0 +1,53 @@
+[0.362s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/pmb2_controller_configuration': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake /home/mjlinux/Downloads/book_ros2_wrs/ThirdParty/pmb2_robot/pmb2_controller_configuration -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration
+[0.829s] -- The C compiler identification is GNU 11.4.0
+[1.013s] -- The CXX compiler identification is GNU 11.4.0
+[1.042s] -- Detecting C compiler ABI info
+[1.239s] -- Detecting C compiler ABI info - done
+[1.246s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.249s] -- Detecting C compile features
+[1.250s] -- Detecting C compile features - done
+[1.255s] -- Detecting CXX compiler ABI info
+[1.450s] -- Detecting CXX compiler ABI info - done
+[1.468s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.469s] -- Detecting CXX compile features
+[1.479s] -- Detecting CXX compile features - done
+[1.480s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[1.989s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[2.107s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.269s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.357s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.361s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.362s] -- Added test 'lint_cmake' to check CMake code style
+[2.363s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.364s] -- Added test 'xmllint' to check XML markup files
+[2.373s] -- Configuring done
+[2.375s] -- Generating done
+[2.384s] -- Build files have been written to: /home/mjlinux/Downloads/book_ros2_wrs/build/pmb2_controller_configuration
+[2.408s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/pmb2_controller_configuration' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake /home/mjlinux/Downloads/book_ros2_wrs/ThirdParty/pmb2_robot/pmb2_controller_configuration -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration
+[2.408s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/pmb2_controller_configuration': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/pmb2_controller_configuration -- -j4 -l4
+[2.509s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/pmb2_controller_configuration' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/pmb2_controller_configuration -- -j4 -l4
+[2.591s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/pmb2_controller_configuration': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/pmb2_controller_configuration
+[2.619s] -- Install configuration: ""
+[2.619s] -- Execute custom install script
+[2.633s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/config/gazebo_controller_manager_cfg.yaml
+[2.643s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/config/joint_state_broadcaster.yaml
+[2.672s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/config/mobile_base_controller.yaml
+[2.681s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/launch/default_controllers.launch.py
+[2.707s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/launch/joint_state_broadcaster.launch.py
+[2.750s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/launch/mobile_base_controller.launch.py
+[2.768s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/ament_index/resource_index/package_run_dependencies/pmb2_controller_configuration
+[2.779s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/ament_index/resource_index/parent_prefix_path/pmb2_controller_configuration
+[2.815s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/environment/ament_prefix_path.sh
+[2.843s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/environment/ament_prefix_path.dsv
+[2.863s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/environment/path.sh
+[2.874s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/environment/path.dsv
+[2.896s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/local_setup.bash
+[2.920s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/local_setup.sh
+[2.939s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/local_setup.zsh
+[2.955s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/local_setup.dsv
+[2.966s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/package.dsv
+[2.981s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/ament_index/resource_index/packages/pmb2_controller_configuration
+[2.994s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/cmake/pmb2_controller_configurationConfig.cmake
+[3.011s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/cmake/pmb2_controller_configurationConfig-version.cmake
+[3.033s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration/share/pmb2_controller_configuration/package.xml
+[3.048s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/pmb2_controller_configuration' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/pmb2_controller_configuration
