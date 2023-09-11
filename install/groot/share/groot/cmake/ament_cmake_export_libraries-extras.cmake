@@ -1,0 +1,1 @@
+/home/mjlinux/Downloads/book_ros2_wrs/build/groot/ament_cmake_export_libraries/ament_cmake_export_libraries-extras.cmake

@@ -1,0 +1,42 @@
+[0.063s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics -- -j4 -l4
+[0.180s] [ 14%] Built target subscriber_class
+[0.201s] [ 28%] Built target publisher_class
+[0.203s] [ 42%] Built target publisher
+[0.208s] [ 57%] Built target executors
+[0.232s] [ 71%] Built target logger
+[0.240s] [ 85%] Built target logger_class
+[0.251s] [100%] Built target param_reader
+[0.261s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics -- -j4 -l4
+[0.333s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics
+[0.340s] -- Install configuration: ""
+[0.341s] -- Execute custom install script
+[0.341s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/publisher
+[0.341s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/publisher_class
+[0.341s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/subscriber_class
+[0.342s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/executors
+[0.342s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/logger
+[0.342s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/logger_class
+[0.342s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/lib/br2_basics/param_reader
+[0.342s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/launch/includer_launch.py
+[0.342s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/launch/param_node_v1_launch.py
+[0.343s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/launch/param_node_v2_launch.py
+[0.343s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/launch/pub_sub_v1_launch.py
+[0.343s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/launch/pub_sub_v2_launch.py
+[0.343s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/config/params.yaml
+[0.343s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/ament_index/resource_index/package_run_dependencies/br2_basics
+[0.343s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/ament_index/resource_index/parent_prefix_path/br2_basics
+[0.344s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/environment/ament_prefix_path.sh
+[0.344s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/environment/ament_prefix_path.dsv
+[0.344s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/environment/path.sh
+[0.344s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/environment/path.dsv
+[0.344s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/local_setup.bash
+[0.345s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/local_setup.sh
+[0.345s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/local_setup.zsh
+[0.345s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/local_setup.dsv
+[0.345s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/package.dsv
+[0.356s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/ament_index/resource_index/packages/br2_basics
+[0.357s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.357s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/cmake/br2_basicsConfig.cmake
+[0.357s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/cmake/br2_basicsConfig-version.cmake
+[0.357s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics/share/br2_basics/package.xml
+[0.363s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics

@@ -1,0 +1,1 @@
+/home/mjlinux/Downloads/book_ros2_wrs/build/br2_basics/ament_cmake_core/br2_basicsConfig.cmake

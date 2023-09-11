@@ -1,0 +1,43 @@
+[0.013s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/groot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/groot -- -j4 -l4
+[0.092s] [  1%] [34m[1mAutomatic MOC and UIC for target QtNodeEditor[0m
+[0.130s] [  1%] Built target QtNodeEditor_autogen
+[0.177s] [ 57%] Built target QtNodeEditor
+[0.218s] [ 58%] [34m[1mAutomatic MOC and UIC for target behavior_tree_editor[0m
+[0.248s] [ 58%] Built target behavior_tree_editor_autogen
+[0.320s] [ 74%] Built target behavior_tree_editor
+[0.351s] [ 75%] [34m[1mAutomatic MOC and UIC for target Groot[0m
+[0.355s] [ 75%] [34m[1mAutomatic MOC and UIC for target editor_test[0m
+[0.368s] [ 76%] [34m[1mAutomatic MOC and UIC for target replay_test[0m
+[0.369s] [ 76%] Built target Groot_autogen
+[0.382s] [ 76%] Built target editor_test_autogen
+[0.391s] [ 76%] Built target replay_test_autogen
+[0.404s] [ 82%] Built target Groot
+[0.427s] [ 91%] Built target editor_test
+[0.453s] [100%] Built target replay_test
+[0.487s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/groot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/groot -- -j4 -l4
+[0.646s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/groot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/groot
+[0.654s] -- Install configuration: ""
+[0.654s] -- Execute custom install script
+[0.654s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/lib/libbehavior_tree_editor.so
+[0.654s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/lib/groot/Groot
+[0.654s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/environment/library_path.sh
+[0.656s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/environment/library_path.dsv
+[0.656s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/ament_index/resource_index/package_run_dependencies/groot
+[0.656s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/ament_index/resource_index/parent_prefix_path/groot
+[0.656s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/environment/ament_prefix_path.sh
+[0.656s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/environment/ament_prefix_path.dsv
+[0.656s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/environment/path.sh
+[0.657s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/environment/path.dsv
+[0.657s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/local_setup.bash
+[0.657s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/local_setup.sh
+[0.657s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/local_setup.zsh
+[0.657s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/local_setup.dsv
+[0.658s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/package.dsv
+[0.673s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/ament_index/resource_index/packages/groot
+[0.673s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.673s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.673s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/cmake/ament_cmake_export_libraries-extras.cmake
+[0.673s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/cmake/grootConfig.cmake
+[0.673s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/cmake/grootConfig-version.cmake
+[0.673s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/groot/share/groot/package.xml
+[0.688s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/groot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/groot

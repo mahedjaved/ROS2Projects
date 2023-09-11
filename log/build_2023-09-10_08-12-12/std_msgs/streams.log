@@ -1,0 +1,39 @@
+[0.024s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/std_msgs': CMAKE_PREFIX_PATH=/home/mjlinux/Downloads/book_ros2_wrs/install/catkin:${CMAKE_PREFIX_PATH} PATH=/home/mjlinux/Downloads/book_ros2_wrs/install/catkin/bin:${PATH} PKG_CONFIG_PATH=/home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/aarch64-linux-gnu/pkgconfig:/home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/pkgconfig PYTHONPATH=/home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share /usr/bin/cmake /home/mjlinux/Downloads/book_ros2_wrs/std_msgs -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/mjlinux/Downloads/book_ros2_wrs/install/std_msgs
+[0.047s] -- Using CATKIN_DEVEL_PREFIX: /home/mjlinux/Downloads/book_ros2_wrs/build/std_msgs/devel
+[0.047s] -- Using CMAKE_PREFIX_PATH: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin;/home/mjlinux/Downloads/book_ros2_wrs/install/vision_msgs_rviz_plugins;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_tracking;/home/mjlinux/Downloads/book_ros2_wrs/install/vision_msgs;/home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_simulation;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_robot;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_navigation;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_gazebo;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_moveit_config;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_laser_sensors;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_bringup;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_controller_configuration;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_2dnav;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_navigation;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_2dnav;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_maps;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_laser_sensors;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_bringup;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_description;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration;/home/mjlinux/Downloads/book_ros2_wrs/install/pal_gripper;/home/mjlinux/Downloads/book_ros2_wrs/install/pal_gripper_description;/home/mjlinux/Downloads/book_ros2_wrs/install/pal_gripper_controller_configuration;/home/mjlinux/Downloads/book_ros2_wrs/install/pal_gazebo_worlds;/home/mjlinux/Downloads/book_ros2_wrs/install/hey5_description;/home/mjlinux/Downloads/book_ros2_wrs/install/groot;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_tracking_msgs;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_tf2_detector;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_navigation;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_cpp;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_bumpgo;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics
+[0.048s] -- This workspace overlays: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin
+[0.049s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.086s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3") 
+[0.086s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.086s] -- Using Debian Python package layout
+[0.086s] -- Using empy: /usr/bin/empy
+[0.226s] -- Using CATKIN_ENABLE_TESTING: ON
+[0.226s] -- Call enable_testing()
+[0.228s] -- Using CATKIN_TEST_RESULTS_DIR: /home/mjlinux/Downloads/book_ros2_wrs/build/std_msgs/test_results
+[0.406s] -- Forcing gtest/gmock from source, though one was otherwise available.
+[0.406s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[0.406s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[0.534s] -- Found Python: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.535s] -- Found Threads: TRUE  
+[0.540s] -- nosetests not found, Python tests can not be run (try installing package 'python3-nose')
+[0.596s] -- catkin 0.8.10
+[0.596s] -- BUILD_SHARED_LIBS is on
+[0.661s] [31mCMake Error at /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkinConfig.cmake:83 (find_package):
+[0.661s]   Could not find a package configuration file provided by
+[0.661s]   "message_generation" with any of the following names:
+[0.661s] 
+[0.661s]     message_generationConfig.cmake
+[0.661s]     message_generation-config.cmake
+[0.661s] 
+[0.661s]   Add the installation prefix of "message_generation" to CMAKE_PREFIX_PATH or
+[0.661s]   set "message_generation_DIR" to a directory containing one of the above
+[0.661s]   files.  If "message_generation" provides a separate development package or
+[0.661s]   SDK, be sure it has been installed.
+[0.661s] Call Stack (most recent call first):
+[0.661s]   CMakeLists.txt:4 (find_package)
+[0.661s] 
+[0.661s] [0m
+[0.661s] -- Could NOT find message_generation (missing: message_generation_DIR)
+[0.661s] -- Could not find the required component 'message_generation'. The following CMake error indicates that you either need to install the package with the same name or change your environment so that it can be found.
+[0.661s] -- Configuring incomplete, errors occurred!
+[0.662s] See also "/home/mjlinux/Downloads/book_ros2_wrs/build/std_msgs/CMakeFiles/CMakeOutput.log".

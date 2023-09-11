@@ -1,0 +1,20 @@
+[0.490s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal': PYTHONPATH=/home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal/prefix_override:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal/build --no-deps install_data
+[0.677s] running develop
+[0.689s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.689s]   warnings.warn(
+[0.689s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.689s]   warnings.warn(
+[0.813s] running egg_info
+[0.813s] writing launch_pal.egg-info/PKG-INFO
+[0.813s] writing dependency_links to launch_pal.egg-info/dependency_links.txt
+[0.814s] writing entry points to launch_pal.egg-info/entry_points.txt
+[0.814s] writing requirements to launch_pal.egg-info/requires.txt
+[0.814s] writing top-level names to launch_pal.egg-info/top_level.txt
+[0.815s] reading manifest file 'launch_pal.egg-info/SOURCES.txt'
+[0.816s] writing manifest file 'launch_pal.egg-info/SOURCES.txt'
+[0.817s] running build_ext
+[0.817s] Creating /home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal/lib/python3.10/site-packages/launch-pal.egg-link (link to .)
+[0.817s] 
+[0.817s] Installed /home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal
+[0.817s] running install_data
+[0.838s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal' returned '0': PYTHONPATH=/home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal/prefix_override:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal/build --no-deps install_data

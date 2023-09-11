@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/vision_msgs_rviz_plugins/include/**",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/br2_tracking/include/**",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/vision_msgs/include/**",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/br2_tracking_msgs/include/**",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/include/**",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_bumpgo/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/mjlinux/Downloads/book_ros2_wrs/book_ros2/br2_bt_bumpgo/include/**",
+        "/home/mjlinux/Downloads/book_ros2_wrs/book_ros2/br2_bt_patrolling/include/**",
+        "/home/mjlinux/Downloads/book_ros2_wrs/book_ros2/br2_fsm_bumpgo_cpp/include/**",
+        "/home/mjlinux/Downloads/book_ros2_wrs/book_ros2/br2_tf2_detector/include/**",
+        "/home/mjlinux/Downloads/book_ros2_wrs/book_ros2/br2_tracking/include/**",
+        "/home/mjlinux/Downloads/book_ros2_wrs/book_ros2/br2_vff_avoidance/include/**",
+        "/home/mjlinux/Downloads/book_ros2_wrs/src/first_package/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

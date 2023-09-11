@@ -1,0 +1,19 @@
+[0.021s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/pmb2_navigation': AMENT_PREFIX_PATH=/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_2dnav:/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_maps:/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_laser_sensors:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_2dnav:/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_maps:/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_laser_sensors:/opt/ros/humble /usr/bin/cmake /home/mjlinux/Downloads/book_ros2_wrs/ThirdParty/pmb2_navigation/pmb2_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_navigation
+[0.098s] -- The C compiler identification is GNU 11.4.0
+[0.161s] -- The CXX compiler identification is GNU 11.4.0
+[0.166s] -- Detecting C compiler ABI info
+[0.306s] -- Detecting C compiler ABI info - done
+[0.312s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.312s] -- Detecting C compile features
+[0.313s] -- Detecting C compile features - done
+[0.315s] -- Detecting CXX compiler ABI info
+[0.417s] -- Detecting CXX compiler ABI info - done
+[0.422s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.422s] -- Detecting CXX compile features
+[0.423s] -- Detecting CXX compile features - done
+[0.446s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[0.645s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.685s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.793s] -- Configuring done
+[0.795s] -- Generating done
+[0.796s] -- Build files have been written to: /home/mjlinux/Downloads/book_ros2_wrs/build/pmb2_navigation

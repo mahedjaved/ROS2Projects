@@ -1,0 +1,242 @@
+[0.052s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin': /usr/bin/cmake /home/mjlinux/Downloads/book_ros2_wrs/catkin -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/mjlinux/Downloads/book_ros2_wrs/install/catkin
+[0.171s] -- The C compiler identification is GNU 11.4.0
+[0.298s] -- The CXX compiler identification is GNU 11.4.0
+[0.306s] -- Detecting C compiler ABI info
+[0.395s] -- Detecting C compiler ABI info - done
+[0.401s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.401s] -- Detecting C compile features
+[0.401s] -- Detecting C compile features - done
+[0.404s] -- Detecting CXX compiler ABI info
+[0.521s] -- Detecting CXX compiler ABI info - done
+[0.528s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.528s] -- Detecting CXX compile features
+[0.528s] -- Detecting CXX compile features - done
+[0.529s] -- Using CATKIN_DEVEL_PREFIX: /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/devel
+[0.529s] -- Using CMAKE_PREFIX_PATH: /home/mjlinux/Downloads/book_ros2_wrs/install/vision_msgs_rviz_plugins;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_tracking;/home/mjlinux/Downloads/book_ros2_wrs/install/vision_msgs;/home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_simulation;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_robot;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_navigation;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_gazebo;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_moveit_config;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_laser_sensors;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_bringup;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_controller_configuration;/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_2dnav;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_robot;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_navigation;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_2dnav;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_maps;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_laser_sensors;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_bringup;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_description;/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_controller_configuration;/home/mjlinux/Downloads/book_ros2_wrs/install/pal_gripper;/home/mjlinux/Downloads/book_ros2_wrs/install/pal_gripper_description;/home/mjlinux/Downloads/book_ros2_wrs/install/pal_gripper_controller_configuration;/home/mjlinux/Downloads/book_ros2_wrs/install/pal_gazebo_worlds;/home/mjlinux/Downloads/book_ros2_wrs/install/hey5_description;/home/mjlinux/Downloads/book_ros2_wrs/install/groot;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_tracking_msgs;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_tiago;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_tf2_detector;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_navigation;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_cpp;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_bumpgo;/home/mjlinux/Downloads/book_ros2_wrs/install/br2_basics
+[0.531s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.548s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3") 
+[0.548s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.548s] -- Using Debian Python package layout
+[0.548s] -- Using empy: /usr/bin/empy
+[0.646s] -- Using CATKIN_ENABLE_TESTING: ON
+[0.646s] -- Call enable_testing()
+[0.648s] -- Using CATKIN_TEST_RESULTS_DIR: /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/test_results
+[0.916s] -- Forcing gtest/gmock from source, though one was otherwise available.
+[0.916s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[0.916s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[1.087s] -- Found Python: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.087s] -- Found Threads: TRUE  
+[1.091s] -- nosetests not found, Python tests can not be run (try installing package 'python3-nose')
+[1.167s] -- catkin 0.8.10
+[1.167s] -- BUILD_SHARED_LIBS is on
+[1.596s] /home/mjlinux/Downloads/book_ros2_wrs/catkin/cmake/interrogate_setup_dot_py.py:43: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+[1.596s]   import distutils.core
+[1.868s] -- skipping nosetests(test/local_tests) in project 'catkin'
+[1.868s] -- skipping nosetests(test/unit_tests) in project 'catkin'
+[1.870s] -- Configuring done
+[1.875s] -- Generating done
+[1.876s] -- Build files have been written to: /home/mjlinux/Downloads/book_ros2_wrs/build/catkin
+[1.888s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin' returned '0': /usr/bin/cmake /home/mjlinux/Downloads/book_ros2_wrs/catkin -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/mjlinux/Downloads/book_ros2_wrs/install/catkin
+[1.888s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin': /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/catkin -- -j4 -l4
+[1.961s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin' returned '0': /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/catkin -- -j4 -l4
+[2.007s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin': /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/catkin --target tests -- -j4 -l4
+[2.096s] Built target tests
+[2.107s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin' returned '0': /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/catkin --target tests -- -j4 -l4
+[2.165s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin': /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/catkin
+[2.172s] -- Install configuration: ""
+[2.172s] -- Execute custom install script
+[2.172s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/pkgconfig/catkin.pc
+[2.181s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkinConfig.cmake
+[2.193s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkinConfig-version.cmake
+[2.201s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/package.xml
+[2.209s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/LICENSE
+[2.218s] -- Up-to-date: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake
+[2.218s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/empy.cmake
+[2.218s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/string_starts_with.cmake
+[2.218s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/list_append_deduplicate.cmake
+[2.218s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/debug_message.cmake
+[2.218s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/stamp.cmake
+[2.218s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/test
+[2.218s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/test/download_checkmd5.py
+[2.218s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/test/nosetests.cmake
+[2.219s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/test/catkin_download_test_data.cmake
+[2.219s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/test/run_tests.py
+[2.219s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/test/remove_test_results.py
+[2.219s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/test/tests.cmake
+[2.219s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/test/gtest.cmake
+[2.219s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/atomic_configure_file.cmake
+[2.219s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/env-hooks
+[2.219s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/env-hooks/05.catkin_make.bash
+[2.220s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/env-hooks/05.catkin_make_isolated.bash
+[2.220s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/list_append_unique.cmake
+[2.220s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/tools
+[2.220s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/tools/doxygen.cmake
+[2.220s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/tools/bz2.cmake
+[2.220s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/tools/rt.cmake
+[2.220s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/tools/threads.cmake
+[2.220s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/tools/libraries.cmake
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkin_workspace.cmake
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkin_download.cmake
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkin_metapackage.cmake
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/toplevel.cmake
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/interrogate_setup_dot_py.py
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/em
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/em/pkg.pc.em
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/em/order_packages.cmake.em
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/assert.cmake
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/custom_install.cmake
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/local_setup.sh.in
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/local_setup.bat.in
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/env.sh.in
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/python_win32_wrapper.cpp.in
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/pkgConfig-version.cmake.in
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/python_distutils_install.bat.in
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/_setup_util.py.in
+[2.221s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/setup.sh.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/pkg.context.pc.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/setup.zsh.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/relay.py.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/python_distutils_install.sh.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/rosinstall.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/local_setup.bash.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/setup.bash.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/safe_execute_install.cmake.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/cfg-extras.context.py.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/Doxyfile.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/setup.fish.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/script.bat.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/script.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/pkgConfig.cmake.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/script.py.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/script.sh.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/generate_cached_setup.py.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/order_packages.context.py.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/script.bash.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/env.bat.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/env-hook.context.py.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/setup.bat.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/__init__.py.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/local_setup.zsh.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/templates/local_setup.fish.in
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/platform
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/platform/lsb.cmake
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/platform/windows.cmake
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/platform/ubuntu.cmake
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/find_program_required.cmake
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkin_package_xml.cmake
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkin_package.cmake
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkin_symlink_install.cmake
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkin_install_python.cmake
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/all.cmake
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkin_add_env_hooks.cmake
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/safe_execute_process.cmake
+[2.222s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/order_paths.py
+[2.223s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/parse_package_xml.py
+[2.243s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/list_insert_in_workspace_order.cmake
+[2.243s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/em_expand.cmake
+[2.243s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/symlink_install
+[2.243s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/symlink_install/catkin_symlink_install_programs.cmake
+[2.243s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/symlink_install/install.cmake
+[2.243s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/symlink_install/catkin_install_logic.cmake
+[2.244s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/symlink_install/catkin_symlink_install_targets.cmake
+[2.244s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/symlink_install/catkin_symlink_install.cmake.in
+[2.244s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/symlink_install/catkin_symlink_install_files.cmake
+[2.244s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/symlink_install/catkin_symlink_install_directory.cmake
+[2.244s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/symlink_install/catkin_symlink_install_append_install_code.cmake
+[2.244s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkin_python_setup.cmake
+[2.244s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/shell.cmake
+[2.244s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkin_destinations.cmake
+[2.244s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/legacy.cmake
+[2.244s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/python.cmake
+[2.244s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkin_libraries.cmake
+[2.244s] -- Installing: /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/share/catkin/cmake/catkin_generate_environment.cmake
+[2.244s] + cd /home/mjlinux/Downloads/book_ros2_wrs/catkin
+[2.244s] + mkdir -p /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages
+[2.244s] + /usr/bin/env PYTHONPATH=/home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages:/home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/python3/dist-packages:/home/mjlinux/Downloads/book_ros2_wrs/install/vision_msgs/local/lib/python3.10/dist-packages:/home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/local/lib/python3.10/dist-packages:/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/local/lib/python3.10/dist-packages:/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_description/local/lib/python3.10/dist-packages:/home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal/lib/python3.10/site-packages:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_tracking_msgs/local/lib/python3.10/dist-packages:/home/mjlinux/Downloads/book_ros2_wrs/build/br2_fsm_bumpgo_py:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages CATKIN_BINARY_DIR=/home/mjlinux/Downloads/book_ros2_wrs/build/catkin /usr/bin/python3 /home/mjlinux/Downloads/book_ros2_wrs/catkin/setup.py egg_info --egg-base /home/mjlinux/Downloads/book_ros2_wrs/build/catkin build --build-base /home/mjlinux/Downloads/book_ros2_wrs/build/catkin install --root=/ --install-layout=deb --prefix=/home/mjlinux/Downloads/book_ros2_wrs/install/catkin --install-scripts=/home/mjlinux/Downloads/book_ros2_wrs/install/catkin/bin
+[2.460s] running egg_info
+[2.460s] creating /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/catkin.egg-info
+[2.460s] writing /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/catkin.egg-info/PKG-INFO
+[2.460s] writing dependency_links to /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/catkin.egg-info/dependency_links.txt
+[2.461s] writing top-level names to /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/catkin.egg-info/top_level.txt
+[2.461s] writing manifest file '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin/catkin.egg-info/SOURCES.txt'
+[2.462s] reading manifest file '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin/catkin.egg-info/SOURCES.txt'
+[2.462s] adding license file 'LICENSE'
+[2.463s] writing manifest file '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin/catkin.egg-info/SOURCES.txt'
+[2.463s] running build
+[2.463s] running build_py
+[2.464s] creating /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib
+[2.464s] creating /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin
+[2.464s] copying python/catkin/builder.py -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin
+[2.464s] copying python/catkin/package_version.py -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin
+[2.464s] copying python/catkin/cmake.py -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin
+[2.464s] copying python/catkin/environment_cache.py -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin
+[2.464s] copying python/catkin/workspace_vcs.py -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin
+[2.465s] copying python/catkin/workspace.py -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin
+[2.465s] copying python/catkin/terminal_color.py -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin
+[2.465s] copying python/catkin/find_in_workspaces.py -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin
+[2.465s] copying python/catkin/tidy_xml.py -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin
+[2.465s] copying python/catkin/__init__.py -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin
+[2.465s] copying python/catkin/init_workspace.py -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin
+[2.465s] copying python/catkin/test_results.py -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin
+[2.465s] running build_scripts
+[2.466s] creating /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10
+[2.466s] copying and adjusting bin/catkin_find -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10
+[2.466s] copying and adjusting bin/catkin_init_workspace -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10
+[2.466s] copying and adjusting bin/catkin_make -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10
+[2.466s] copying and adjusting bin/catkin_make_isolated -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10
+[2.466s] copying and adjusting bin/catkin_test_results -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10
+[2.466s] copying and adjusting bin/catkin_topological_order -> /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10
+[2.466s] changing mode of /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10/catkin_find from 664 to 775
+[2.466s] changing mode of /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10/catkin_init_workspace from 664 to 775
+[2.466s] changing mode of /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10/catkin_make from 664 to 775
+[2.466s] changing mode of /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10/catkin_make_isolated from 664 to 775
+[2.466s] changing mode of /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10/catkin_test_results from 664 to 775
+[2.466s] changing mode of /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10/catkin_topological_order from 664 to 775
+[2.466s] running install
+[2.467s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.467s]   warnings.warn(
+[2.467s] running install_lib
+[2.467s] creating /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin
+[2.467s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin/builder.py -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin
+[2.467s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin/package_version.py -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin
+[2.467s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin/cmake.py -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin
+[2.467s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin/environment_cache.py -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin
+[2.468s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin/workspace_vcs.py -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin
+[2.468s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin/workspace.py -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin
+[2.468s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin/terminal_color.py -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin
+[2.468s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin/find_in_workspaces.py -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin
+[2.468s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin/tidy_xml.py -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin
+[2.468s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin/__init__.py -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin
+[2.468s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin/init_workspace.py -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin
+[2.468s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/lib/catkin/test_results.py -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin
+[2.468s] byte-compiling /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin/builder.py to builder.cpython-310.pyc
+[2.473s] byte-compiling /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin/package_version.py to package_version.cpython-310.pyc
+[2.473s] byte-compiling /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin/cmake.py to cmake.cpython-310.pyc
+[2.474s] byte-compiling /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin/environment_cache.py to environment_cache.cpython-310.pyc
+[2.474s] byte-compiling /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin/workspace_vcs.py to workspace_vcs.cpython-310.pyc
+[2.474s] byte-compiling /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin/workspace.py to workspace.cpython-310.pyc
+[2.474s] byte-compiling /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin/terminal_color.py to terminal_color.cpython-310.pyc
+[2.474s] byte-compiling /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin/find_in_workspaces.py to find_in_workspaces.cpython-310.pyc
+[2.475s] byte-compiling /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin/tidy_xml.py to tidy_xml.cpython-310.pyc
+[2.475s] byte-compiling /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin/__init__.py to __init__.cpython-310.pyc
+[2.475s] byte-compiling /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin/init_workspace.py to init_workspace.cpython-310.pyc
+[2.476s] byte-compiling /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin/test_results.py to test_results.cpython-310.pyc
+[2.477s] running install_egg_info
+[2.478s] Copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/catkin.egg-info to /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages/catkin-0.8.10.egg-info
+[2.478s] Skipping SOURCES.txt
+[2.478s] running install_scripts
+[2.490s] creating /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/bin
+[2.491s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10/catkin_topological_order -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/bin
+[2.491s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10/catkin_find -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/bin
+[2.491s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10/catkin_make_isolated -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/bin
+[2.491s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10/catkin_test_results -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/bin
+[2.491s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10/catkin_make -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/bin
+[2.491s] copying /home/mjlinux/Downloads/book_ros2_wrs/build/catkin/scripts-3.10/catkin_init_workspace -> /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/bin
+[2.491s] changing mode of /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/bin/catkin_topological_order to 775
+[2.491s] changing mode of /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/bin/catkin_find to 775
+[2.491s] changing mode of /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/bin/catkin_make_isolated to 775
+[2.491s] changing mode of /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/bin/catkin_test_results to 775
+[2.491s] changing mode of /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/bin/catkin_make to 775
+[2.491s] changing mode of /home/mjlinux/Downloads/book_ros2_wrs/install/catkin/bin/catkin_init_workspace to 775
+[2.511s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/catkin' returned '0': /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/catkin

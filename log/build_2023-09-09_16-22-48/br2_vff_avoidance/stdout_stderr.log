@@ -1,0 +1,31 @@
+[35m[1mConsolidate compiler generated dependencies of target gtest[0m
+[35m[1mConsolidate compiler generated dependencies of target br2_vff_avoidance[0m
+[35m[1mConsolidate compiler generated dependencies of target gtest_main[0m
+[ 20%] Built target gtest
+[ 40%] Built target br2_vff_avoidance
+[ 60%] Built target gtest_main
+[35m[1mConsolidate compiler generated dependencies of target avoidance_vff[0m
+[35m[1mConsolidate compiler generated dependencies of target vff_test[0m
+[ 80%] Built target avoidance_vff
+[100%] Built target vff_test
+-- Install configuration: "Debug"
+-- Execute custom install script
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/lib/libbr2_vff_avoidance.so
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/lib/br2_vff_avoidance/avoidance_vff
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/br2_vff_avoidance/launch/avoidance_vff.launch.py
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/ament_index/resource_index/package_run_dependencies/br2_vff_avoidance
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/ament_index/resource_index/parent_prefix_path/br2_vff_avoidance
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/ament_prefix_path.sh
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/ament_prefix_path.dsv
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/path.sh
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/path.dsv
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.bash
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.sh
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.zsh
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.dsv
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/br2_vff_avoidance/package.dsv
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/ament_index/resource_index/packages/br2_vff_avoidance
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/br2_vff_avoidance/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/br2_vff_avoidance/cmake/br2_vff_avoidanceConfig.cmake
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/br2_vff_avoidance/cmake/br2_vff_avoidanceConfig-version.cmake
+-- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_vff_avoidance/share/br2_vff_avoidance/package.xml

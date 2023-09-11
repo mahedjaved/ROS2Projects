@@ -1,0 +1,6 @@
+[0.024s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_vff_avoidance': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/br2_vff_avoidance -- -j4 -l4
+[0.096s] [ 20%] Built target gtest_main
+[0.126s] [ 40%] Built target br2_vff_avoidance
+[0.137s] [ 60%] Built target gtest
+[0.151s] [ 80%] Built target avoidance_vff
+[0.154s] [100%] Built target vff_test

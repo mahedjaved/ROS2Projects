@@ -1,0 +1,31 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/vision_msgs/local/lib/python3.10/dist-packages",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/local/lib/python3.10/dist-packages",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/local/lib/python3.10/dist-packages",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_description/local/lib/python3.10/dist-packages",
+        "/home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal/lib/python3.10/site-packages",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/br2_tracking_msgs/local/lib/python3.10/dist-packages",
+        "/home/mjlinux/Downloads/book_ros2_wrs/build/br2_fsm_bumpgo_py",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/vision_msgs/local/lib/python3.10/dist-packages",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/urdf_test/local/lib/python3.10/dist-packages",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/tiago_description/local/lib/python3.10/dist-packages",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/pmb2_description/local/lib/python3.10/dist-packages",
+        "/home/mjlinux/Downloads/book_ros2_wrs/build/launch_pal",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal/lib/python3.10/site-packages",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/catkin/lib/python3/dist-packages",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/br2_tracking_msgs/local/lib/python3.10/dist-packages",
+        "/home/mjlinux/Downloads/book_ros2_wrs/build/br2_fsm_bumpgo_py",
+        "/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/home/mjlinux/Downloads/book_ros2_wrs/src/first_package"
+}

@@ -1,0 +1,50 @@
+[0.018s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_bt_patrolling': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/br2_bt_patrolling -- -j4 -l4
+[0.093s] [ 10%] Built target br2_move_bt_node
+[0.100s] [ 20%] Built target br2_recharge_bt_node
+[0.104s] [ 30%] Built target br2_patrol_bt_node
+[0.107s] [ 40%] Built target br2_get_waypoint_bt_node
+[0.133s] [ 50%] Built target br2_battery_checker_bt_node
+[0.144s] [ 60%] Built target patrolling_main
+[0.147s] [ 70%] Built target gtest_main
+[0.154s] [ 80%] Built target br2_track_objects_bt_node
+[0.168s] [ 90%] Built target gtest
+[0.204s] [100%] Built target bt_action_test
+[0.213s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_bt_patrolling' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/mjlinux/Downloads/book_ros2_wrs/build/br2_bt_patrolling -- -j4 -l4
+[0.264s] Invoking command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_bt_patrolling': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/br2_bt_patrolling
+[0.271s] -- Install configuration: "Debug"
+[0.272s] -- Execute custom install script
+[0.272s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/lib/libbr2_recharge_bt_node.so
+[0.272s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/lib/libbr2_patrol_bt_node.so
+[0.273s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/lib/libbr2_move_bt_node.so
+[0.273s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/lib/libbr2_get_waypoint_bt_node.so
+[0.273s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/lib/libbr2_battery_checker_bt_node.so
+[0.274s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/lib/libbr2_track_objects_bt_node.so
+[0.274s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/lib/br2_bt_patrolling/patrolling_main
+[0.274s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/include//br2_bt_patrolling/BatteryChecker.hpp
+[0.274s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/include//br2_bt_patrolling/GetWaypoint.hpp
+[0.274s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/include//br2_bt_patrolling/Move.hpp
+[0.274s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/include//br2_bt_patrolling/Patrol.hpp
+[0.274s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/include//br2_bt_patrolling/Recharge.hpp
+[0.274s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/include//br2_bt_patrolling/TrackObjects.hpp
+[0.274s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/include//br2_bt_patrolling/ctrl_support/BTActionNode.hpp
+[0.274s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/include//br2_bt_patrolling/ctrl_support/BTLifecycleCtrlNode.hpp
+[0.275s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/behavior_tree_xml/patrolling.xml
+[0.275s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/launch/patrolling.launch.py
+[0.275s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/ament_index/resource_index/package_run_dependencies/br2_bt_patrolling
+[0.275s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/ament_index/resource_index/parent_prefix_path/br2_bt_patrolling
+[0.275s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/ament_prefix_path.sh
+[0.276s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/ament_prefix_path.dsv
+[0.276s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/path.sh
+[0.276s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/path.dsv
+[0.276s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.bash
+[0.276s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.sh
+[0.276s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.zsh
+[0.276s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.dsv
+[0.277s] -- Symlinking: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/package.dsv
+[0.294s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/ament_index/resource_index/packages/br2_bt_patrolling
+[0.294s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.294s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.294s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/br2_bt_patrollingConfig.cmake
+[0.294s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/br2_bt_patrollingConfig-version.cmake
+[0.294s] -- Up-to-date symlink: /home/mjlinux/Downloads/book_ros2_wrs/install/br2_bt_patrolling/share/br2_bt_patrolling/package.xml
+[0.300s] Invoked command in '/home/mjlinux/Downloads/book_ros2_wrs/build/br2_bt_patrolling' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mjlinux/Downloads/book_ros2_wrs/install/launch_pal:/home/mjlinux/Downloads/book_ros2_wrs/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/mjlinux/Downloads/book_ros2_wrs/build/br2_bt_patrolling

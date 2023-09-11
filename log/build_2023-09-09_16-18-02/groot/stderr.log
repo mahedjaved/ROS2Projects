@@ -1,0 +1,65 @@
+[33mCMake Warning at CMakeLists.txt:11 (find_package):
+  Found package configuration file:
+
+    /usr/lib/aarch64-linux-gnu/cmake/Qt5/Qt5Config.cmake
+
+  but it set Qt5_FOUND to FALSE so package "Qt5" is considered to be NOT
+  FOUND.  Reason given by package:
+
+  Failed to find Qt5 component "Svg" config file at
+  "/usr/lib/aarch64-linux-gnu/cmake/Qt5Svg/Qt5SvgConfig.cmake"
+
+  
+
+
+[0m
+[33mCMake Warning at QtNodeEditor/CMakeLists.txt:11 (find_package):
+  Found package configuration file:
+
+    /usr/lib/aarch64-linux-gnu/cmake/Qt5/Qt5Config.cmake
+
+  but it set Qt5_FOUND to FALSE so package "Qt5" is considered to be NOT
+  FOUND.  Reason given by package:
+
+  Failed to find Qt5 component "Svg" config file at
+  "/usr/lib/aarch64-linux-gnu/cmake/Qt5Svg/Qt5SvgConfig.cmake"
+
+  
+
+
+[0m
+[31mCMake Error at CMakeLists.txt:157 (add_library):
+  Target "behavior_tree_editor" links to target "Qt5::Svg" but the target was
+  not found.  Perhaps a find_package() call is missing for an IMPORTED
+  target, or an ALIAS target is missing?
+
+[0m
+[31mCMake Error at CMakeLists.txt:184 (add_executable):
+  Target "Groot" links to target "Qt5::Svg" but the target was not found.
+  Perhaps a find_package() call is missing for an IMPORTED target, or an
+  ALIAS target is missing?
+
+[0m
+[31mCMake Error at QtNodeEditor/CMakeLists.txt:48 (add_library):
+  Target "QtNodeEditor" links to target "Qt5::Svg" but the target was not
+  found.  Perhaps a find_package() call is missing for an IMPORTED target, or
+  an ALIAS target is missing?
+
+[0m
+[31mCMake Error at test/CMakeLists.txt:16 (add_executable):
+  Target "editor_test" links to target "Qt5::Svg" but the target was not
+  found.  Perhaps a find_package() call is missing for an IMPORTED target, or
+  an ALIAS target is missing?
+Call Stack (most recent call first):
+  test/CMakeLists.txt:28 (CompileTest)
+
+[0m
+[31mCMake Error at test/CMakeLists.txt:16 (add_executable):
+  Target "replay_test" links to target "Qt5::Svg" but the target was not
+  found.  Perhaps a find_package() call is missing for an IMPORTED target, or
+  an ALIAS target is missing?
+Call Stack (most recent call first):
+  test/CMakeLists.txt:29 (CompileTest)
+
+[0m
+[0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m
